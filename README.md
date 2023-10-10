@@ -66,5 +66,3 @@ If you have any questions or need further assistance, please feel free to [conta
 
 Happy web scraping!
 ```
-
-You can replace "yourusername" in the GitHub clone URL, "your@email.com" in the contact section, and adapt the README to include any additional information specific to your project. This README provides an overview, installation instructions, usage, and important notes for your PDF downloader spider.
