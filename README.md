@@ -60,10 +60,9 @@ The spider will start scraping the target website and downloading PDFs. Download
 - Customization: Feel free to customize the spider to suit your specific scraping requirements, such as adapting the URL, improving error handling, or setting different user agents.
 
 ## License
-This project is provided under the [MIT License](LICENSE), which means you are free to use, modify, and distribute the code for your purposes.
-
+---
 ## Contact
-If you have any questions or need further assistance, please feel free to [contact us](mailto:your@email.com) or open an issue in this repository.
+If you have any questions or need further assistance, please feel free to [contact me](mailto:ismetsemedov@gmail.com) or open an issue in this repository.
 
 Happy web scraping!
 ```
